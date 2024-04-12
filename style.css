@@ -1,0 +1,35 @@
+.cabecalho{
+    background-color:black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+.logo{
+    width: 5%;
+}
+img {width: 150px;}
+
+.filmes{
+    background-color: rgb(252, 255, 250);
+}
+
+.parte1{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.parte2{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.frase{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
